@@ -1,0 +1,17 @@
+Deverá conter:
+  - Sistema de login padrão, com opção de recuperação de senha
+  - Ao logar, selecionar a conta que deseja utilizar ou escolher outras opções de uso
+  - Fundo escuro com botões em cor verde (confirmação), vermelho (aviso/atenção), azul claro (voltar)
+  
+  Dashboard:
+  - A conta já deve estar selecionada
+  - Ao acessar a página, mostrar opções de visualização de gráfico
+  - Média de gastos durante certo período, soma total de gastos de um período, soma total de lucros de um período, verificação da conclusão ou não de metas financeiras
+  
+  Contas:
+  - Informar o tipo da conta, cartões disponíveis, saldo, extrato, banco. OCULTAR O Nº DA CONTA
+  - Cadastro de lucro e despesa. Recalcular automático ao modificar valores
+  - Geração de relatório Excel
+  
+  Calculadora de horas trabalhadas:
+  
