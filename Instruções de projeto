@@ -2,11 +2,14 @@ Deverá conter:
   - Sistema de login padrão, com opção de recuperação de senha
   - Ao logar, selecionar a conta que deseja utilizar ou escolher outras opções de uso
   - Fundo escuro com botões em cor verde (confirmação), vermelho (aviso/atenção), azul claro (voltar)
+  - Prepared statements
+  - Coibir login de usuário caso o mesmo já esteja logado
   
   Dashboard:
   - A conta já deve estar selecionada
   - Ao acessar a página, mostrar opções de visualização de gráfico
   - Média de gastos durante certo período, soma total de gastos de um período, soma total de lucros de um período, verificação da conclusão ou não de metas financeiras
+  - Chart.js ou Google Charts
   
   Contas:
   - Informar o tipo da conta, cartões disponíveis, saldo, extrato, banco. OCULTAR O Nº DA CONTA
@@ -15,3 +18,5 @@ Deverá conter:
   
   Calculadora de horas trabalhadas:
   
+  
+  https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simples-e-garantir-o-m%C3%ADnimo-de-erros-no-sistema-app-74df2ee241cc
