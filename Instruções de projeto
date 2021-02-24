@@ -22,46 +22,46 @@ Deverá conter:
   - Prepared statements
   - Coibir login de usuário caso o mesmo já esteja logado
   - Página de administrador
+  - Agendamento e notificação de pagamentos/vencimentos
+  - Dashboard gráfico:
+    - Para o dashboard, a conta já deve estar selecionada
+    - Ao acessar a página, mostrar opções de visualização de gráfico
+    - Média de gastos durante certo período, soma total de gastos de um período, soma total de lucros de um período, verificação da conclusão ou não de metas financeiras
+    - Usar Chart.js ou Google Charts
   
-  Dashboard:
-  - A conta já deve estar selecionada
-  - Ao acessar a página, mostrar opções de visualização de gráfico
-  - Média de gastos durante certo período, soma total de gastos de um período, soma total de lucros de um período, verificação da conclusão ou não de metas financeiras
-  - Chart.js ou Google Charts
-  
-  Contas:
+Contas:
   - Informar o tipo da conta, cartões disponíveis, saldo, extrato, banco. OCULTAR O Nº DA CONTA
   - Cadastro de lucro e despesa. Recalcular automático ao modificar valores
   - Função adicionar meta de lucro mensal
   - Geração de relatório Excel
   
-  Calculadora de horas trabalhadas:
+Calculadora de horas trabalhadas:
   - Inserir horários de trabalho
   - Calcular quantidade de horas trabalhadas
   - Calcular previsão salarial
   
   
- - Requisitos de software:
+- Requisitos de software:
     https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simples-e-garantir-o-m%C3%ADnimo-de-erros-no-sistema-app-74df2ee241cc
  
- - Bootstrap:
+- Bootstrap:
     https://bootstrapious.com/p/bootstrap-sidebar
     
- - Chart.js:
+- Chart.js:
     https://www.chartjs.org/samples/latest/
   
- - MySQLi:
+- MySQLi:
     https://pt.stackoverflow.com/questions/296472/como-mudar-de-mysql-real-escape-string-para-mysqli-real-escape-string
  
- - PHP MVC:
+- PHP MVC:
     https://github.com/victorcmarinho/CRUD-MVC-PHP/tree/master/model
   
- - Sass:
+- Sass:
     https://medium.com/@vinioolvrs/o-que-%C3%A9-o-sass-e-porque-voc%C3%AA-deveria-come%C3%A7ar-a-utiliza-lo-9a84b87da4ab
     https://www.w3schools.com/sass/default.php
     https://pt.stackoverflow.com/questions/295150/sass-e-scss-por-que-us%C3%A1-los-em-vez-de-css-convencional
     
- - UML:
+- UML:
     https://drawio-app.com/uml-diagrams/#:~:text=There%20are%20a%20few%20UML,programmer)%2C%20and%20sequence%20diagrams.
     
     
